@@ -1,0 +1,26 @@
+Minha Primeira experiência com o GitHub
+
+Link para download: git.scm.com/downloads
+
+Conforme ensinado no curso da DIO, o GitHub
+é um site e serviço baseado em nuvem que ajuda
+os desenvolvedores a armazenar e gerenciar o seu
+código, rastreando e controlando também as alterações
+nos seus códigos.
+
+O controle de versão ajuda os desenvolvedores a rastrear
+e gerenciar alterações no código de um projeto de software.
+
+O Git que é um sistema open-source de controle de versão 
+distribuído criado por Linus torvalds em 2005.
+Toda a base de código e histórico fica disponível 
+no computador de todos os desenvolvedores.
+
+O GitHub está interligado ao controle de versão e ao Git.
+
+Em termos mais técnicos podemos dizer que o GitHub é uma empresa
+com fins lucrativos que disponibiliza um serviço de hospedagem
+de repositório Git baseado em nuvem. De forma sucinta faz com 
+que pessoas singulares e equipes usem de forma muito mais simples
+o Git para o controle de versão e colaboração.
+
