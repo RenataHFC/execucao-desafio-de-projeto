@@ -1,2 +1,2 @@
-# execucao-desafio-de-projeto
-Meu primeiro repositório - Desafio de Projeto
+# testando-meus-conhecimentos-desafio-de-projeto
+Meu primeiro repositorio - Desafio de Projeto
